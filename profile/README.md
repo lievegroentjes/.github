@@ -1,6 +1,6 @@
 ## Hallo, wij zijn Lieve Groentjes 👋
 
-<a href="https://lievegroentjes.be">Lieve Groentjes</a> is het moestuinproject en de blog van Joke en Davy. 
+<a href="https://lievegroentjes.be" rel="follow">Lieve Groentjes</a> is het moestuinproject en de blog van Joke en Davy. 
 Wij schrijven over [moestuinieren](https://lievegroentjes.be/moestuin) en [lekkere oogst verwerken](https://lievegroentjes.be/recepten).
 
 Net als onze fermenten, bruisen wij van enthousiasme om onze kennis met jou te delen via [workshops](https://lievegroentjes.be/workshops).
