@@ -1,9 +1,9 @@
 ## Hallo, wij zijn Lieve Groentjes 👋
 
-[Lieve Groentjes](https://lievegroentjes.be) is het moestuinproject en de blog van Joke en Davy. 
-Wij schrijven over [moestuinieren](https://lievegroentjes.be/moestuin) en [lekkere oogst verwerken](https://lievegroentjes.be/recepten).
+[Lieve Groentjes](https://lievegroentjes.be?utm_medium=social&utm_source=Github&utm_content=organisation) is het moestuinproject en de blog van Joke en Davy. 
+Wij schrijven over [moestuinieren](https://lievegroentjes.be/moestuin?utm_medium=social&utm_source=Github&utm_content=organisation) en [lekkere oogst verwerken](https://lievegroentjes.be/recepten?utm_medium=social&utm_source=Github&utm_content=organisation).
 
-Net als onze fermenten, bruisen wij van enthousiasme om onze kennis met jou te delen via [workshops](https://lievegroentjes.be/workshops).
+Net als onze fermenten, bruisen wij van enthousiasme om onze kennis met jou te delen via [workshops](https://lievegroentjes.be/workshops?utm_medium=social&utm_source=Github&utm_content=organisation).
 
 <!--
 
